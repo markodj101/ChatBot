@@ -23,7 +23,7 @@ git clone https://github.com/username/chatbot.git
 pip install -r requirements.txt
 ```
 
-3. Yipujte:
+3. Idite na code i izaberite opciju download zip i raspakujte fajl, nakon toga pratite korka 2.:
 
 ## Korištenje
 
