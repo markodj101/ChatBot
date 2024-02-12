@@ -17,7 +17,7 @@ Ova aplikacija implementira jednostavan chatbot koji može odgovarati na određe
 git clone https://github.com/username/chatbot.git
 ```
 
-2. Instalirajte potrebne Python pakete koristeći `pip`: torch,numpy i nltk.
+2. Instalirajte potrebne Python pakete koristeći `pip`: *torch,numpy i nltk.*
 
 3. Idite na code i izaberite opciju download zip i raspakujte fajl, nakon toga pratite korka 2.:
 
@@ -39,7 +39,6 @@ python main.py
 - `nltk_util.py`: Pomoćne funkcije za obradu teksta koristeći NLTK (Natural Language Toolkit).
 - `intents.json`: Datoteka koja sadrži definicije intents (namjene) koje chatbot može prepoznati.
 - `data.pth`: Datoteka u kojoj se sprema obučeni model i pripadajući podaci.
-- `requirements.txt`: Datoteka koja sadrži popis Python paketa potrebnih za pokretanje aplikacije.
 
 ## Dodatne informacije
 
