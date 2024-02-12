@@ -23,7 +23,7 @@ class ChatApplication:
         # Onemogućavanje promjene veličine prozora
         self.window.resizable(width=False, height=False)
         # Postavljanje dimenzija i boje pozadine prozora
-        self.window.configure(width=470, height=550, bg=BG_COLOR)
+        self.window.configure(width=600, height=650, bg=BG_COLOR)
 
         # Naslovni label
         head_label = Label(self.window, bg=BG_COLOR, fg=TEXT_COLOR,
