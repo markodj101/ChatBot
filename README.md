@@ -25,7 +25,7 @@ git clone https://github.com/username/chatbot.git
 
 1. Pokrenite `app.py` datoteku kako biste pokrenuli aplikaciju:
 2. Nakon pokretanja aplikacije, možete započeti razgovor s chatbotom. Unesite poruku u polje za unos teksta i pritisnite Enter.
-3. Ako želite trenirati ChatBot-a sa novim podacima, ubacite ih u intents.json fajl i pokrenite `train.py` pa zatim `app.py`.
+3. Ako želite trenirati ChatBot-a sa novim podacima, ubacite ih u `intents.json` fajl i pokrenite `train.py` pa zatim `app.py`.
 ## Struktura projekta
 
 - `main.py`: Glavna datoteka koja pokreće chatbot aplikaciju.
