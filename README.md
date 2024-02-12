@@ -1,6 +1,6 @@
 # Chatbot aplikacija
 
-ChatBot je aplikacija za razmjenu poruka koja koristi vještačku inteligenciju kako bi odgovarala na data pitanja i pružala korisne informacije ili podršku. Korisnici mogu postavljati pitanja ili započeti razgovor s ChatBotom putem polja za unos teksta. Aplikacija podržava različite teme i može se prilagoditi specifičnim potrebama korisnika zamjenom *intents.json* fajla. ChatBot je intuitivan i jednostavan za korištenje, pružajući korisnicima brz i učinkovit način za dobivanje informacija ili rješavanje problema.
+ChatBot je aplikacija za razmjenu poruka koja koristi vještačku inteligenciju kako bi odgovarala na data pitanja i pružala korisne informacije ili podršku. Korisnici mogu postavljati pitanja ili započeti razgovor s ChatBotom putem polja za unos teksta. Aplikacija podržava različite teme i može se prilagoditi specifičnim potrebama korisnika zamjenom `intents.json` fajla. ChatBot je intuitivan i jednostavan za korištenje, pružajući korisnicima brz i učinkovit način za dobivanje informacija ili rješavanje problema.
 
 ## Sadržaj
 
