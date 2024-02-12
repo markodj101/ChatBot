@@ -1,6 +1,6 @@
 # Chatbot aplikacija
 
-Ova aplikacija implementira jednostavan chatbot koji može odgovarati na određene pitanja korisnika. Chatbot je izgrađen pomoću neuronske mreže te se koristi za obradu prirodnog jezika.
+ChatBot je aplikacija za razmjenu poruka koja koristi vještačku inteligenciju kako bi odgovarala na data pitanja i pružala korisne informacije ili podršku. Korisnici mogu postavljati pitanja ili započeti razgovor s ChatBotom putem polja za unos teksta. Aplikacija podržava različite teme i može se prilagoditi specifičnim potrebama korisnika zamjenom *intents.json* fajla. ChatBot je intuitivan i jednostavan za korištenje, pružajući korisnicima brz i učinkovit način za dobivanje informacija ili rješavanje problema.
 
 ## Sadržaj
 
@@ -23,14 +23,9 @@ git clone https://github.com/username/chatbot.git
 
 ## Korištenje
 
-1. Pokrenite `main.py` datoteku kako biste pokrenuli aplikaciju:
-
-```bash
-python main.py
-```
-
-2. Nakon pokretanja aplikacije, možete započeti razgovor s chatbotom. Unesite poruku u polje za unos teksta i pritisnite tipku "Send" ili pritisnite Enter kako biste poslali poruku.
-
+1. Pokrenite `app.py` datoteku kako biste pokrenuli aplikaciju:
+2. Nakon pokretanja aplikacije, možete započeti razgovor s chatbotom. Unesite poruku u polje za unos teksta i pritisnite Enter.
+3. Ako želite trenirati ChatBot-a sa novim podacima, ubacite ih u intents.json fajl i pokrenite `train.py` pa zatim `app.py`.
 ## Struktura projekta
 
 - `main.py`: Glavna datoteka koja pokreće chatbot aplikaciju.
