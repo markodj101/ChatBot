@@ -11,7 +11,7 @@ Ova aplikacija implementira jednostavan chatbot koji može odgovarati na određe
 
 ## Instalacija
 
-1. Klonirajte repozitorij na svoje računalo:
+1. Klonirajte repozitorij na svoje računar (u slučaju da nemate git instaliran pratite korak 3.):
 
 ```bash
 git clone https://github.com/username/chatbot.git
@@ -22,6 +22,8 @@ git clone https://github.com/username/chatbot.git
 ```bash
 pip install -r requirements.txt
 ```
+
+3. Yipujte:
 
 ## Korištenje
 
