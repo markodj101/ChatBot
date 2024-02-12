@@ -17,11 +17,7 @@ Ova aplikacija implementira jednostavan chatbot koji može odgovarati na određe
 git clone https://github.com/username/chatbot.git
 ```
 
-2. Instalirajte potrebne Python pakete koristeći `pip`:
-
-```bash
-pip install -r requirements.txt
-```
+2. Instalirajte potrebne Python pakete koristeći `pip`: torch,numpy i nltk.
 
 3. Idite na code i izaberite opciju download zip i raspakujte fajl, nakon toga pratite korka 2.:
 
