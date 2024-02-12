@@ -41,6 +41,7 @@ git clone https://github.com/username/chatbot.git
 - Potrebno je imati instaliran Python (preporučena verzija 3.6 ili novija) kako bi aplikacija radila.
 - Imaju dva `.json` fajla od koji je jedan `coffee.json` ako ga istreniramo na ovim podacima, dobićemo Chatbot-a koji prodaje kafu.
 - Chatbot je za sada ne engleskom jeziku.
+- Takođe se traženi paketi mogu instalirati pomoću `requirements.txt`.
 
 ---
 
