@@ -39,6 +39,7 @@ git clone https://github.com/username/chatbot.git
 
 - Aplikacija koristi Python programski jezik i PyTorch biblioteku za rad s neuronskim mrežama.
 - Potrebno je imati instaliran Python (preporučena verzija 3.6 ili novija) kako bi aplikacija radila.
+- Imaju dva json fajla od koji je jedan 'coffee.json' ako ova istreniramo dobićemo Chatbot-a koji pordaje kafu.
 
 ---
 
