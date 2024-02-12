@@ -39,8 +39,6 @@ git clone https://github.com/username/chatbot.git
 
 - Aplikacija koristi Python programski jezik i PyTorch biblioteku za rad s neuronskim mrežama.
 - Potrebno je imati instaliran Python (preporučena verzija 3.6 ili novija) kako bi aplikacija radila.
-- Za detaljnije informacije o korištenju aplikacije i prilagodbama, pogledajte komentare unutar izvornog koda.
 
 ---
 
-Ovo je samo primjer kako bi README datoteka mogla izgledati. Prilagodite je vašim potrebama i dodajte dodatne informacije prema zahtjevima vašeg projekta.
