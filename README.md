@@ -1,6 +1,6 @@
 # Chatbot aplikacija
 
-Ova aplikacija implementira jednostavan chatbot koji može odgovarati na određene upite korisnika. Chatbot je izgrađen pomoću neuronske mreže te se koristi za obradu prirodnog jezika.
+Ova aplikacija implementira jednostavan chatbot koji može odgovarati na određene pitanja korisnika. Chatbot je izgrađen pomoću neuronske mreže te se koristi za obradu prirodnog jezika.
 
 ## Sadržaj
 
